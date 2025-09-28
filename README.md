@@ -4,8 +4,7 @@ This repository contains a C++ implementation of a fixed-size **Linear Queue** d
 
 ***
 
-## 🏷️ Title of the Experiment
-Implementation of an Array-Based Linear Queue Data Structure in C++
+
 
 ***
 
